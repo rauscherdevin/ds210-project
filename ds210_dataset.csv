@@ -1,0 +1,1181 @@
+,Year,Country,Name,Win?
+0,1966.0,United States,Bobbi Gibb,1
+1,1967.0,United States,Bobbi Gibb,1
+2,1968.0,United States,Bobbi Gibb,1
+3,1969.0,United States,Sara Mae Berman,1
+4,1970.0,United States,Sara Mae Berman,1
+5,1971.0,United States,Sara Mae Berman,1
+6,1972.0,United States,Nina Kuscsik,1
+7,1973.0,United States,Jacqueline Hansen,1
+8,1974.0,United States,Miki Gorman,1
+9,1975.0,Germany,Liane Winter,1
+10,1976.0,United States,Kim Merritt,1
+11,1977.0,United States,Miki Gorman,1
+12,1978.0,United States,Gayle Barron,1
+13,1979.0,United States,Joan Benoit,1
+14,1980.0,Canada,Jacqueline Gareau,1
+15,1981.0,New Zealand,Allison Roe,1
+16,1982.0,Germany,Charlotte Teske,1
+17,1983.0,United States,Joan Benoit,1
+18,1984.0,New Zealand,Lorraine Moller,1
+19,1985.0,United States,Lisa Larsen Weidenbach,1
+20,1986.0,Norway,Ingrid Kristiansen,1
+21,1987.0,Portugal,Rosa Mota,1
+22,1988.0,Portugal,Rosa Mota,1
+23,1989.0,Norway,Ingrid Kristiansen,1
+24,1990.0,Portugal,Rosa Mota,1
+25,1991.0,Poland,Wanda Panfil,1
+26,1992.0,Russia,Olga Markova,1
+27,1993.0,Russia,Olga Markova,1
+28,1994.0,Germany,Uta Pippig,1
+29,1995.0,Germany,Uta Pippig,1
+30,1996.0,Germany,Uta Pippig,1
+31,1997.0,Ethiopia,Fatuma Roba,1
+32,1998.0,Ethiopia,Fatuma Roba,1
+33,1999.0,Ethiopia,Fatuma Roba,1
+34,2000.0,Kenya,Catherine Ndereba,1
+35,2001.0,Kenya,Catherine Ndereba,1
+36,2002.0,Kenya,Margaret Okayo,1
+37,2003.0,Russia,Svetlana Zakharova,1
+38,2004.0,Kenya,Catherine Ndereba,1
+39,2005.0,Kenya,Catherine Ndereba,1
+40,2006.0,Kenya,Rita Jeptoo,1
+41,2007.0,Russia,Lidiya Grigoryeva,1
+42,2008.0,Ethiopia,Dire Tune,1
+43,2009.0,Kenya,Salina Kosgei,1
+44,2010.0,Ethiopia,Teyba Erkesso,1
+45,2011.0,Kenya,Caroline Kilel,1
+46,2012.0,Kenya,Sharon Cherop,1
+47,2013.0,Kenya,Rita Jeptoo,1
+48,2014.0,Ethiopia,Buzunesh Deba,1
+49,2015.0,Kenya,Caroline Rotich,1
+50,2016.0,Ethiopia,Atsede Baysa,1
+51,2017.0,Kenya,Edna Kiplagat,1
+52,2018.0,United States,Desiree Linden,1
+53,2019.0,Ethiopia,Worknesh Degefa,1
+55,2021.0,Kenya,Edna Kiplagat,1
+56,2022.0,Kenya,Peres Jepchirchir,1
+57,1897.0,United States,John McDermott,1
+58,1898.0,Canada,Ronald MacDonald,1
+59,1899.0,United States,Lawrence Brignolia,1
+60,1900.0,Canada,Jack Caffery,1
+61,1901.0,Canada,Jack Caffery,1
+62,1902.0,United States,Sammy Mellor,1
+63,1903.0,United States,John Lordan,1
+64,1904.0,United States,Michael Spring,1
+65,1905.0,United States,Frederick Lorz,1
+66,1906.0,United States,Timothy Ford,1
+67,1907.0,Canada,Tom Longboat,1
+68,1908.0,United States,Thomas Morrissey,1
+69,1909.0,United States,Henri Renaud,1
+70,1910.0,Canada,Fred S. Cameron,1
+71,1911.0,United States,Clarence DeMar,1
+72,1912.0,United States,Michael J. Ryan,1
+73,1913.0,United States,Fritz Carlson,1
+74,1914.0,Canada,Jimmy Duffy,1
+75,1915.0,Canada,Édouard Fabre,1
+76,1916.0,United States,Arthur Roth,1
+77,1917.0,United States,Bill Kennedy,1
+79,1919.0,United States,Carl Linder,1
+80,1920.0,Greece,Panagiotis Trivoulidas,1
+81,1921.0,United States,Frank Zuna,1
+82,1922.0,United States,Clarence DeMar,1
+83,1923.0,United States,Clarence DeMar,1
+84,1924.0,United States,Clarence DeMar,1
+85,1925.0,United States,Charles Mellor,1
+86,1926.0,Canada,Johnny Miles,1
+87,1927.0,United States,Clarence DeMar,1
+88,1928.0,United States,Clarence DeMar,1
+89,1929.0,Canada,Johnny Miles,1
+90,1930.0,United States,Clarence DeMar,1
+91,1931.0,United States,James Henigan,1
+92,1932.0,Germany,Paul de Bruyn,1
+93,1933.0,United States,Les Pawson,1
+94,1934.0,Canada,Dave Komonen,1
+95,1935.0,United States,Johnny Kelley,1
+96,1936.0,United States,Ellison Brown,1
+97,1937.0,Canada,Walter Young,1
+98,1938.0,United States,Les Pawson,1
+99,1939.0,United States,Ellison Brown,1
+100,1940.0,Canada,Gérard Côté,1
+101,1941.0,United States,Les Pawson,1
+102,1942.0,United States,Joe Smith,1
+103,1943.0,Canada,Gérard Côté,1
+104,1944.0,Canada,Gérard Côté,1
+105,1945.0,United States,Johnny Kelley,1
+106,1946.0,Greece,Stylianos Kyriakides,1
+107,1947.0,South Korea,Suh Yun-bok,1
+108,1948.0,Canada,Gérard Côté,1
+109,1949.0,Sweden,Gösta Leandersson,1
+110,1950.0,South Korea,Ham Kee-yong,1
+111,1951.0,Japan,Shigeki Tanaka,1
+112,1952.0,Guatemala,Mateo Flores,1
+113,1953.0,Japan,Keizo Yamada,1
+114,1954.0,Finland,Veikko Karvonen,1
+115,1955.0,Japan,Hideo Hamamura,1
+116,1956.0,Finland,Antti Viskari,1
+117,1957.0,United States,John J. Kelley,1
+118,1958.0,Yugoslavia,Franjo Mihalic,1
+119,1959.0,Finland,Eino Oksanen,1
+120,1960.0,Finland,Paavo Kotila,1
+121,1961.0,Finland,Eino Oksanen,1
+122,1962.0,Finland,Eino Oksanen,1
+123,1963.0,Belgium,Aurèle Vandendriessche,1
+124,1964.0,Belgium,Aurèle Vandendriessche,1
+125,1965.0,Japan,Morio Shigematsu,1
+126,1966.0,Japan,Kenji Kimihara,1
+127,1967.0,New Zealand,Dave McKenzie,1
+128,1968.0,United States,Amby Burfoot,1
+129,1969.0,Japan,Yoshiaki Unetani,1
+130,1970.0,United Kingdom,Ron Hill,1
+131,1971.0,Colombia,Álvaro Mejía,1
+132,1972.0,Finland,Olavi Suomalainen,1
+133,1973.0,United States,Jon Anderson,1
+134,1974.0,Ireland,Neil Cusack,1
+135,1975.0,United States,Bill Rodgers,1
+136,1976.0,United States,Jack Fultz,1
+137,1977.0,Canada,Jerome Drayton,1
+138,1978.0,United States,Bill Rodgers,1
+139,1979.0,United States,Bill Rodgers,1
+140,1980.0,United States,Bill Rodgers,1
+141,1981.0,Japan,Toshihiko Seko,1
+142,1982.0,United States,Alberto Salazar,1
+143,1983.0,United States,Greg Meyer,1
+144,1984.0,United Kingdom,Geoff Smith,1
+145,1985.0,United Kingdom,Geoff Smith,1
+146,1986.0,Australia,Robert de Castella,1
+147,1987.0,Japan,Toshihiko Seko,1
+148,1988.0,Kenya,Ibrahim Hussein,1
+149,1989.0,Ethiopia,Abebe Mekonnen,1
+150,1990.0,Italy,Gelindo Bordin,1
+151,1991.0,Kenya,Ibrahim Hussein,1
+152,1992.0,Kenya,Ibrahim Hussein,1
+153,1993.0,Kenya,Cosmas Ndeti,1
+154,1994.0,Kenya,Cosmas Ndeti,1
+155,1995.0,Kenya,Cosmas Ndeti,1
+156,1996.0,Kenya,Moses Tanui,1
+157,1997.0,Kenya,Lameck Aguta,1
+158,1998.0,Kenya,Moses Tanui,1
+159,1999.0,Kenya,Joseph Chebet,1
+160,2000.0,Kenya,Elijah Lagat,1
+161,2001.0,South Korea,Lee Bong-ju,1
+162,2002.0,Kenya,Rodgers Rop,1
+163,2003.0,Kenya,Robert Kipkoech Cheruiyot,1
+164,2004.0,Kenya,Timothy Cherigat,1
+165,2005.0,Ethiopia,Hailu Negussie,1
+166,2006.0,Kenya,Robert Kipkoech Cheruiyot,1
+167,2007.0,Kenya,Robert Kipkoech Cheruiyot,1
+168,2008.0,Kenya,Robert Kipkoech Cheruiyot,1
+169,2009.0,Ethiopia,Deriba Merga,1
+170,2010.0,Kenya,Robert Kiprono Cheruiyot,1
+171,2011.0,Kenya,Geoffrey Mutai,1
+172,2012.0,Kenya,Wesley Korir,1
+173,2013.0,Ethiopia,Lelisa Desisa,1
+174,2014.0,United States,Meb Keflezighi,1
+175,2015.0,Ethiopia,Lelisa Desisa,1
+176,2016.0,Ethiopia,Lemi Berhanu Hayle,1
+177,2017.0,Kenya,Geoffrey Kirui,1
+178,2018.0,Japan,Yuki Kawauchi,1
+179,2019.0,Kenya,Lawrence Cherono,1
+181,2021.0,Kenya,Benson Kipruto,1
+182,2022.0,Kenya,Evans Chebet,1
+2977,2017.0,United States,"Donovan, Evan",0
+15983,2016.0,United States,"Githens, Peter C.",0
+12992,2017.0,United States,"Muchnick, Steven",0
+2048,2017.0,United States,"Schenkel, Keith M",0
+18485,2016.0,United States,"Burke, Christine",0
+9124,2016.0,Australia,"Larsen, Junia",0
+1993,2017.0,United States,"Thiele, Austin H",0
+22603,2016.0,United States,"Skisak, Eileen E",0
+2577,2015.0,Kingdom of Denmark,"Søberg-Hansen, Nicolai",0
+24721,2017.0,United States,"Akins, Bethany",0
+9338,2017.0,Finland,"Keisalo, Lasse P.",0
+20215,2015.0,Canada,"Birchenough, Caroline",0
+8153,2017.0,United States,"Li, Baoqing",0
+11958,2017.0,United States,"Poteralski, Randy",0
+15523,2017.0,United States,"Waldrip, Matthew J.",0
+5420,2016.0,United States,"Poirier, Michael",0
+4461,2015.0,United States,"Haushalter, Jeff",0
+6402,2017.0,Australia,"Dyer, George G. Jr.",0
+16531,2015.0,United States,"Mart, David M.",0
+15783,2015.0,United States,"Van Asten, Laura A",0
+8573,2016.0,United States,"Gallegos, Efrain",0
+5685,2015.0,United States,"Heilman, Ben",0
+21854,2017.0,Canada,"Timpson, Lori A.",0
+21441,2017.0,United States,"Yeager, Lindy",0
+24094,2016.0,United States,"Semple, Peter L",0
+5094,2016.0,Canada,"Seo, Jenny",0
+12857,2017.0,French Republic,"Laatiki, Ali",0
+16474,2016.0,United States,"Decarli, Debbie",0
+5724,2016.0,United States,"Stone, Kristy M.",0
+20501,2015.0,United States,"Smith, Jenny",0
+4789,2015.0,United States,"White, Lindsay E.",0
+21583,2016.0,United States,"Thibeault, Jocelyn",0
+18349,2015.0,United Kingdom,"Scott, Clare R",0
+17206,2015.0,United States,"Mercer, James M.",0
+21073,2016.0,United States,"Hershner, Sandy",0
+8568,2015.0,United States,"Curtis, Francis R. Jr.",0
+10705,2015.0,United States,"Tarantino, John I.",0
+13593,2017.0,United States,"Perry, Alexandra C.",0
+10460,2016.0,United States,"Ludl, Kristin",0
+7341,2016.0,People's Republic of China,"Jux, Marc",0
+14457,2015.0,Canada,"Anis, Jimmy R",0
+15870,2016.0,United States,"Condon, Kieran",0
+11254,2015.0,United States,"Semple, Stephanie A",0
+3545,2015.0,United States,"Thompson, Simon T",0
+9672,2015.0,Italy,"Magri, Felice",0
+11809,2015.0,Canada,"Doucet, Lorraine C.",0
+15135,2017.0,United States,"Gohr, Kristen",0
+8989,2017.0,United States,"Smitherman, Sheila M.",0
+22459,2016.0,United States,"Severson, Shawn M",0
+15886,2017.0,United States,"Purcell, Carly R.",0
+19993,2016.0,United States,"Kimmich, Allison B",0
+5384,2016.0,United States,"Kallenbach, Lisa",0
+6003,2016.0,United States,"Hayden, Ashley M",0
+14684,2015.0,United States,"Shue, Ted",0
+15445,2016.0,United States,"Webb, Adrien A",0
+6665,2015.0,United States,"Connolly, Paull",0
+66,2016.0,United States,"Briskman, Jonathan",0
+6124,2017.0,United States,"Roussel, Ross J",0
+13663,2015.0,United States,"Peacock, Jay",0
+194,2015.0,United States,"Neill, Ian T",0
+6758,2017.0,United States,"Bond, Sarah",0
+22449,2017.0,United States,"Sullivan, Tim",0
+2724,2016.0,United States,"Oketani, Shigenari",0
+7308,2017.0,Bermuda,"Thompson, John R.",0
+882,2017.0,United Kingdom,"Matthews, Martin",0
+21010,2016.0,United States,"Stauffer, Angela",0
+6725,2015.0,United States,"Berk, Peter",0
+1703,2015.0,United States,"Keefe, Sean C.",0
+21411,2017.0,United States,"Smith, Jessica D.",0
+26228,2015.0,United Kingdom,"Sparrow, Julie",0
+6102,2015.0,United States,"Cook, Summer B.",0
+19746,2015.0,United States,"Harmon, Melanie",0
+18914,2015.0,Canada,"Wright, Andrea L",0
+22088,2017.0,People's Republic of China,"Ma, Jing",0
+10122,2015.0,Canada,"Castonguay, Martine",0
+21285,2015.0,United States,"Lodes, Barbara J.",0
+24838,2016.0,United States,"Gallagher, Rose E.",0
+12518,2017.0,United States,"Slavik, Kelli L",0
+14478,2016.0,United States,"Tucker, Brian A.",0
+25388,2016.0,United States,"Bence, Bonnie C.",0
+10693,2016.0,United Kingdom,"Lee Ting Sang, Marianne",0
+21088,2016.0,United States,"Anderson-Blair, Jetola",0
+10011,2017.0,United States,"Iannizzotto, Denise",0
+14718,2016.0,United States,"Tavolacci, John",0
+20451,2016.0,Germany,"Egger, Christin",0
+26204,2017.0,United States,"Scribi, Lauren H.",0
+2431,2015.0,United States,"Parks, Kevin",0
+3591,2017.0,United States,"Sanders, Jeremy",0
+6162,2015.0,Colombia,"Ceron, Armando",0
+23276,2015.0,United States,"Pilbeam, Kate",0
+17006,2017.0,United States,"Alvarez, Katherine D",0
+11501,2016.0,Canada,"Dean, Andrew",0
+5363,2017.0,United States,"Hine, Melissa C",0
+21918,2015.0,United States,"Millea, Christopher T.",0
+16945,2016.0,United States,"Crane, Brian",0
+11109,2017.0,United States,"Greene, John F.",0
+24144,2017.0,United States,"Boyd, Ralph",0
+10400,2015.0,United States,"Byler, Dirck S",0
+22078,2015.0,United States,"Baldwin, Jennifer",0
+23550,2017.0,United States,"Arrison, Melany J.",0
+3038,2016.0,United States,"Psilakis, Alexander G.",0
+2397,2017.0,United States,"Chen, Sophia",0
+17786,2016.0,Canada,"Williams, Liz M.",0
+6113,2015.0,United States,"Karkos, Kelsey A.",0
+1781,2015.0,Canada,"Haggerty, Kevin",0
+21849,2016.0,United States,"Crandall, Jeremy P.",0
+23852,2016.0,United States,"Krauter, Blaine W.",0
+15958,2015.0,United States,"Janelle, Ernie",0
+1840,2016.0,United States,"Stotz, Michael A.",0
+6319,2016.0,United States,"Willenborg, Julie A.",0
+15594,2016.0,United States,"Casterline, John",0
+3896,2016.0,United States,"Donahue, Lauren E",0
+24887,2017.0,United States,"Urbach, Robin A",0
+26404,2017.0,United States,"Quinn, Adam H.",0
+7789,2017.0,Kingdom of the Netherlands,"Keller, Yves G.",0
+2425,2015.0,United States,"Dason, Nicholas B.",0
+22686,2015.0,United States,"Allen, Mac",0
+20338,2017.0,United States,"Roach, Jessica M.",0
+8039,2016.0,United States,"Conklin, Sean P",0
+22071,2016.0,United States,"Jauregui, Hugo",0
+11809,2016.0,United States,"Curto, Stefania",0
+18833,2016.0,United States,"Noye, Angie E",0
+3292,2015.0,United States,"Thomas, Preston III",0
+18540,2017.0,People's Republic of China,"Yu, Rong",0
+12648,2015.0,United States,"Kausel, Mary Kate",0
+13000,2016.0,United States,"O'Malley, William",0
+6914,2017.0,Canada,"Lanoe, Denis",0
+4276,2016.0,Sweden,"Ostlund, Daniel Sr.",0
+12292,2015.0,United States,"McCaffrey, Padraig",0
+19392,2016.0,United States,"Scorer, Allan H.",0
+9274,2017.0,United States,"Martin, Jay A",0
+18953,2017.0,United States,"Reza, Alla V",0
+19523,2017.0,United States,"Chmielewski, Marianne C.",0
+10921,2015.0,Republic of Panama,"Stoute, Luis C",0
+6728,2016.0,United States,"Hernandez, Yanory",0
+5681,2016.0,United States,"Mackinnon, Matthew",0
+13439,2017.0,United States,"Hayden, Michael",0
+510,2016.0,United States,"Griffin, Tyler",0
+5935,2017.0,United States,"Serrano, Stephen",0
+22963,2017.0,Canada,"Springer, Rhonda E.",0
+11960,2015.0,Canada,"Enns, Roger",0
+8114,2017.0,Canada,"Sass, Christopher M",0
+875,2015.0,United States,"Saldana, Jesse",0
+1315,2016.0,United States,"Gillespie, Joseph R",0
+6096,2015.0,United States,"Painter, Rebecca",0
+13547,2015.0,United States,"McAdams, Alicea",0
+10161,2017.0,United States,"Ray, Steven",0
+5183,2015.0,United States,"Gonsalves, Emilee",0
+19540,2017.0,United States,"Tierney, Leanne S.",0
+19325,2015.0,United States,"Webber, Leigh",0
+12623,2016.0,United States,"Ressler, Lauren S",0
+19699,2015.0,United States,"Markert, George W. V",0
+2419,2015.0,United States,"Byanna, Nikhil",0
+13366,2016.0,United States,"Lecuyer, Jacques",0
+11929,2017.0,Canada,"Mahil, Neelam",0
+17204,2017.0,Germany,"Kirmse, Gerd",0
+13088,2017.0,United States,"Berna, Kurt A",0
+19085,2015.0,United States,"Zambito, Ken",0
+14655,2015.0,United States,"Ekeberg, Eirin L",0
+2000,2017.0,United States,"Atabek, Natalie",0
+17727,2017.0,United States,"Benson, Katie M",0
+23593,2016.0,United States,"Thompson, Dave",0
+16419,2015.0,United States,"O'Sullivan, Karen H.",0
+3954,2016.0,United States,"Fitzpatrick, Jim",0
+26476,2016.0,United States,"McLaughlin, Maureen A.",0
+20653,2017.0,United States,"Greene, Abigail",0
+11530,2017.0,Germany,"Gomille, Timo M.",0
+16358,2017.0,United States,"Riggio, Susan",0
+17726,2016.0,United States,"McCarthy, Dawn M.",0
+5186,2016.0,United States,"Vida, Joseph",0
+2499,2016.0,United States,"Boateng, Rowland",0
+7877,2017.0,United States,"Morgan, Elena",0
+4342,2016.0,Swiss Confederation,"Sobrino, Karen A",0
+9772,2015.0,United States,"Lynn, David W.",0
+9291,2016.0,United States,"Burtis, Charles R.",0
+4507,2015.0,Italy,"Berloffa, Flavio",0
+5794,2017.0,United States,"Soffian, Jay",0
+4708,2016.0,United States,"Wier, Jon M",0
+401,2017.0,United States,"Wiegand, Robert H Jr.",0
+17561,2017.0,United States,"Metteer, Russell",0
+7856,2015.0,United States,"Cattano, Kelly",0
+23848,2015.0,United States,"Haydock, Elizabeth",0
+4647,2017.0,United States,"Donnelly, Steve W.",0
+16119,2015.0,United States,"Kravitz, Lisa W",0
+12196,2015.0,United States,"Corey, Richard P",0
+12019,2016.0,United States,"Huang, Carolyn",0
+18629,2016.0,United States,"Kearney, Christopher J.",0
+14683,2017.0,United States,"Martin, Katherine T",0
+3452,2015.0,Colombia,"Torres, Luis D. Sr.",0
+22541,2016.0,United States,"Carley, Bradford S.",0
+21779,2016.0,United States,"Leary, Caitlin R.",0
+5805,2016.0,United States,"Eidinger, Jessica L",0
+2141,2016.0,United States,"Dravenstott, Richard W",0
+21437,2015.0,United States,"Lancelotta, Susan M",0
+17444,2015.0,United States,"Hart, Erin S",0
+19385,2015.0,Italy,"Bordin, Gelindo",0
+24950,2016.0,United States,"Morganelli, Holly",0
+5020,2016.0,United States,"Wardle, Scott",0
+4822,2015.0,United States,"Thomas, Kurt",0
+19163,2015.0,United States,"Charland, Bernard",0
+6508,2015.0,United States,"Jamison, Jeff D.",0
+9915,2016.0,United States,"Iaquinta, Maura K",0
+11075,2015.0,Canada,"Diodati, Kendra S.",0
+15846,2017.0,United States,"Dowling, Timothy",0
+15299,2017.0,United States,"D'Agostino, William P Jr.",0
+11641,2015.0,United States,"Tinger, Mariah",0
+9635,2016.0,United States,"Pinyan, Maleah J",0
+1547,2017.0,United States,"Swift, Jason P",0
+9155,2016.0,United States,"White, Richard",0
+721,2017.0,United States,"Landry, Paul",0
+6394,2017.0,United States,"Barlow, Line",0
+9005,2015.0,United States,"Laplander, Erin L.",0
+2974,2017.0,United States,"Edwards, Matt B",0
+15407,2016.0,United States,"Miller, Art L",0
+15569,2017.0,United States,"Starling, Sarah",0
+85,2017.0,United States,"Kinley, Jordan",0
+14080,2015.0,United States,"Cleland, Melanie A",0
+12845,2016.0,United States,"Mccreary, Lisa",0
+25045,2015.0,United States,"Ratier, John T.",0
+873,2017.0,United Mexican States,"Corona Iturriaga, Roberto",0
+8994,2017.0,United States,"Parmentier, Gretchen H",0
+26240,2015.0,United States,"Bedard, Tara S.",0
+25671,2015.0,United States,"Shilmover, Fred",0
+4604,2017.0,United States,"Lloyd, Mark",0
+14719,2015.0,United States,"McKee, Chris",0
+7163,2017.0,United States,"Jones, Thomas D.",0
+23160,2016.0,United States,"Warriner, Victor G. Jr.",0
+11164,2017.0,United States,"Menon, Abhaya N",0
+2955,2016.0,Russia,"Voutchkov, Nikolay",0
+10896,2015.0,Canada,"Dale, Laurelly",0
+6646,2016.0,Ukraine,"Kondruk, Valeriy",0
+20875,2016.0,United States,"Erwine, Lynn B",0
+14904,2015.0,United States,"Eaves, Kellie",0
+9144,2015.0,United States,"Ackerman, Alissa",0
+9456,2015.0,United States,"Richard, Brittany",0
+7151,2015.0,United States,"Bupp, Michael E",0
+7558,2016.0,United States,"Weiss, Candice",0
+20806,2015.0,United States,"Miller, Sarah",0
+26245,2017.0,Italy,"Mazzocchi, Patrizia",0
+22977,2015.0,United States,"Lewis, Finlay I.",0
+21549,2017.0,United Kingdom,"Beddard, Roger",0
+14106,2016.0,Australia,"Snook, Jeff",0
+21722,2017.0,United States,"Scarpelli, Dina M.",0
+7048,2017.0,United States,"Cordes, Jillian L",0
+19198,2017.0,United States,"Cherington, Sarah",0
+8334,2017.0,Canada,"Taylor, Kim",0
+15952,2015.0,United States,"Wileman, Martin",0
+16351,2017.0,Italy,"Pomodoro, Corrado",0
+17554,2017.0,United States,"Shillieto, Jan",0
+16606,2015.0,United States,"Cherry, Sara L.",0
+16263,2017.0,United States,"Tolzmann, Diane",0
+4541,2015.0,United States,"Horan, John P",0
+23014,2016.0,United States,"Boisvert, Angel R.",0
+12779,2015.0,United States,"Woo, Tom",0
+468,2015.0,United States,"Foster, Wade",0
+18661,2015.0,United States,"Conte, Toniann",0
+16011,2017.0,United States,"Peterson, Merrilee E",0
+24626,2015.0,United States,"Nealon, Callie H.",0
+91,2017.0,United States,"Varner, Alexander",0
+12697,2015.0,United States,"Hallett, Lisa A.",0
+20573,2015.0,United States,"Quilter, Jana",0
+25985,2017.0,United States,"Whitehead, Linda P",0
+17392,2016.0,United States,"Spear, Mary K.",0
+26386,2016.0,United States,"Schottlandt, Dawn",0
+20909,2017.0,United States,"Carr, Jamie",0
+5811,2017.0,United States,"Dienhart, Kerri",0
+5781,2017.0,United States,"Ruhe, Mike",0
+1832,2017.0,United States,"Cameron, Justin L.",0
+25354,2015.0,United States,"Hamner, Edward",0
+19422,2017.0,United States,"Harris, Donna M.",0
+21847,2015.0,United States,"Ortner, Eric",0
+20300,2015.0,United States,"Schauerman, Christine",0
+2645,2016.0,United States,"Martin, Evan",0
+11359,2017.0,United States,"Kutach, Kelly E",0
+1290,2017.0,United States,"Parker, Daniel W",0
+5658,2016.0,United States,"Volonsevich, Katia",0
+15504,2016.0,United Kingdom,"Sanchez, Ciro Jose",0
+4776,2017.0,United States,"Vaarsi, Kevin",0
+15847,2015.0,United States,"O'Brien, Kristen",0
+22880,2016.0,Canada,"Leger, Germaine",0
+7839,2016.0,United States,"Boswell, Edmund O.",0
+18763,2015.0,United States,"Hardy, Amanda R",0
+25210,2015.0,United States,"Boyd, Maureen G.",0
+21496,2015.0,United States,"O'Connor, Linda Marie",0
+8659,2015.0,United States,"Discala, Jana L",0
+19343,2016.0,People's Republic of China,"Wu, Xiao Dong",0
+25095,2016.0,United States,"Thomason, Shelley M.",0
+2875,2016.0,Canada,"Dubord, Anthony",0
+3892,2017.0,United States,"Seeley, Scott J",0
+17426,2017.0,United States,"Gordon, Christina",0
+2487,2015.0,United States,"Schulte, Shiloh A",0
+12179,2016.0,Canada,"Smith, Keli M.",0
+12806,2017.0,United States,"Silecchia, Krista",0
+5431,2016.0,United States,"Nduati, Ephantus",0
+21487,2017.0,United States,"Durkin, Ann",0
+15895,2017.0,Canada,"Aubin, Josee",0
+15127,2016.0,United States,"Wilderotter, Lindsey",0
+8277,2015.0,United States,"Hack, Eric M",0
+23860,2017.0,United States,"White, Brooke",0
+5351,2017.0,United States,"Bosch, Daniel E.",0
+25468,2017.0,New Zealand,"O'Leary, Bernie D",0
+4101,2016.0,United States,"Wu, Di",0
+19205,2016.0,United States,"Litvay, Patrice M",0
+23634,2016.0,United States,"Polhemus, Constance E",0
+15684,2016.0,United States,"Hamby, Scott A",0
+3458,2015.0,Canada,"Goetz, Lisa",0
+17178,2016.0,United States,"Borst, Christine M.",0
+8686,2015.0,United States,"Abbott, Allison L",0
+12160,2016.0,United States,"Seeger, Karyn W",0
+744,2016.0,United States,"Cohen, Matthew",0
+19768,2016.0,United States,"Abbott, Patricia",0
+25141,2017.0,United States,"Crandall, Jeremy P.",0
+9813,2016.0,United States,"Holden, Gretchen",0
+19361,2015.0,United States,"Stebar, Jeff",0
+14028,2016.0,United States,"Berry, Malorie D",0
+16240,2017.0,United States,"Warburg, Shannon",0
+3951,2015.0,United States,"Makela, Steven",0
+8447,2015.0,United States,"Frankenstein, Craig P",0
+12653,2017.0,Canada,"Gaudette, Nadia",0
+18066,2015.0,United States,"Hernandez, Fheadra C",0
+24278,2015.0,United States,"Pomarole, Michael J.",0
+9703,2015.0,United Mexican States,"Osornio, Karina M.",0
+1626,2017.0,United States,"West, John R",0
+2212,2016.0,Canada,"Desruisseaux, Carl Sr.",0
+15154,2017.0,Canada,"Simard, Chantal",0
+2247,2016.0,United States,"Rainey, Chandler",0
+2312,2015.0,United States,"Oliver, David E.",0
+3314,2017.0,United States,"Davis, Aaron V.",0
+19484,2017.0,United States,"Smith, Renee L.",0
+16502,2017.0,United States,"Altendorf, Timothy K.",0
+10586,2016.0,Canada,"Ranta, David E",0
+11315,2015.0,United States,"Tammaro, Joe",0
+6077,2015.0,United States,"Smith, Timothy A",0
+2429,2015.0,United States,"Epling, Travis M.",0
+12303,2015.0,United States,"Zink, Jill N.",0
+19930,2016.0,United States,"White, Randie",0
+2025,2016.0,United States,"Smith, Jacob A.",0
+22111,2017.0,United States,"Robinson, Todd",0
+18863,2015.0,United States,"Calvert, David",0
+15390,2015.0,United States,"Stanton, Peter R",0
+22693,2017.0,United States,"Singh, Karan",0
+11160,2016.0,Canada,"Hughes, June",0
+881,2015.0,United States,"Tunney, Timothy F",0
+25674,2017.0,People's Republic of China,"Zhang, Hua",0
+9426,2015.0,Federative Republic of Brazil,"Zatyrko, Ricardo",0
+6224,2017.0,Japan,"Hori, Haruyoshi",0
+4926,2015.0,United States,"Crow, William S.",0
+6313,2017.0,Ireland,"Carrie, David John",0
+10026,2015.0,United States,"Medic, Enes",0
+19874,2016.0,United States,"Lovejoy, Sally P",0
+20498,2016.0,United States,"Jewell, Mark C.",0
+14025,2016.0,United States,"Hu, Meagan",0
+2754,2016.0,United States,"Kelley, Elizabeth H",0
+16414,2017.0,United States,"Smeal, Gary L.",0
+3278,2016.0,United States,"Colon, Ricardo",0
+17963,2016.0,United States,"Grimsley, Max",0
+10516,2015.0,United States,"Missimer, Katie L.",0
+19475,2017.0,United States,"Bessey, Diane",0
+17825,2017.0,United States,"Young, Wayne A.",0
+14916,2017.0,United States,"Gorski, Alex",0
+2785,2017.0,United States,"Pudimott, Eric",0
+13011,2017.0,People's Republic of China,"Perez, Maria V. V",0
+24167,2015.0,United States,"Hanlon, Amy J.",0
+2537,2017.0,United States,"Eastin, Dora",0
+15435,2015.0,United States,"Rondeau, Stephen",0
+5460,2017.0,United States,"Harrison, Ian",0
+10692,2017.0,United States,"Brantley, Paul D",0
+18131,2017.0,Canada,"Saunders, Melinda M.",0
+18859,2016.0,United Mexican States,"Pina, Abel A. Sr.",0
+7234,2017.0,Canada,"Lewyckyj, Nestor",0
+4569,2016.0,Canada,"Massicotte, Michel",0
+23606,2017.0,United States,"Durfee, Scott",0
+23162,2015.0,Colombia,"Elorza, Lubin J. Sr.",0
+6836,2016.0,United States,"Namath, Lisa",0
+13514,2017.0,Poland,"Troniarz, Pawel",0
+20479,2016.0,United States,"Wuerch, Ryan",0
+24577,2015.0,People's Republic of China,"Dai, Dawei",0
+18561,2015.0,Canada,"Greig, Christopher J",0
+1537,2015.0,United States,"Nyhan, Sean P",0
+10435,2016.0,United States,"Dandenault, Jenny",0
+7084,2015.0,United States,"Spracklin, Erik S.",0
+20567,2017.0,United States,"Masiello, Cathy",0
+19790,2016.0,United States,"Vondruska, Martin",0
+5446,2016.0,United States,"Blendell, Beth",0
+10724,2016.0,United States,"Wilmoth, Heather S.",0
+1892,2015.0,Guatemala,"Rivas, Jorge A.",0
+15369,2016.0,United States,"Loens, George L.",0
+3192,2016.0,United States,"Patterson, Ross P",0
+22134,2015.0,United States,"Gaudreau, Robert W.",0
+21845,2015.0,United States,"Sunderland, Jake",0
+23232,2015.0,United Mexican States,"Salinas Maya, Martin Rafael Sr.",0
+9179,2016.0,United States,"Reynolds, Jared M",0
+14485,2017.0,United States,"Harrington, Jeffrey D.",0
+18386,2017.0,United States,"Cowell, Michael P.",0
+22635,2017.0,United States,"Hoover, Fred L",0
+13401,2015.0,United States,"Smith, Sadie",0
+18515,2017.0,United States,"Marks, Lisa",0
+19368,2015.0,United States,"Morris, James",0
+21556,2015.0,Canada,"Girard, Robert",0
+3358,2016.0,United States,"Deasey, Michael Ryan",0
+14749,2016.0,United States,"Lajoie, John G",0
+16524,2016.0,United States,"Zuckerman, Tracy G.",0
+11630,2016.0,Canada,"Decoste, Keith",0
+20004,2017.0,United States,"Lupo, Francis",0
+21144,2017.0,Italy,"Grisendi, Pamela",0
+26010,2016.0,United States,"Gundersen, Suzanne L.",0
+6654,2016.0,United Kingdom,"Hingston, Robert S",0
+18544,2015.0,United States,"Abrahams, Charlie",0
+22218,2016.0,Canada,"Templin, Susan E",0
+17939,2015.0,United States,"Dahl, Steve",0
+18433,2015.0,United States,"Morris, Nicholas",0
+18064,2015.0,United States,"Cheung, Ming",0
+16232,2017.0,United States,"Kincl, Laurel",0
+9956,2016.0,Canada,"Couture, Philippe",0
+22728,2016.0,Republic of Austria,"Schlappal, Peter",0
+12384,2016.0,United States,"Wilson, Christopher F",0
+662,2016.0,United States,"Piers, Sheri",0
+12680,2015.0,United States,"McClintock, Jennifer L.",0
+3125,2015.0,United States,"Lombardi, Christopher",0
+13199,2015.0,United States,"Jones, Eric A",0
+2902,2017.0,United States,"Couture, Timothy",0
+10613,2015.0,United States,"Thomas, Deepak P.",0
+9391,2017.0,United States,"Weaver, David E.",0
+9958,2017.0,Grand Duchy of Luxembourg,"Lindgren, Bo E.",0
+7437,2017.0,United States,"Rosenblum, Michael",0
+13795,2015.0,United States,"Romero, Melissa J.",0
+4375,2015.0,United States,"Karliner, Samuel",0
+16716,2017.0,United States,"Phillips, Denise Y",0
+3809,2016.0,United States,"Christian, Kevin L",0
+24514,2015.0,United States,"Sweeney, Shannon",0
+22565,2015.0,United States,"Chagnon, Julie J.",0
+18007,2015.0,United States,"Winebaum, Samuel",0
+13178,2017.0,Canada,"Taylor, Steve",0
+4442,2015.0,United States,"Barnhisel, Greg P",0
+12187,2015.0,United States,"Golgoski, Farrier L",0
+3908,2016.0,United States,"Ware, Andrew",0
+6469,2016.0,United States,"Holzhauer, Maya Fe",0
+1704,2016.0,United States,"Corona, Luis",0
+14612,2016.0,United States,"Earl, Ryan J.",0
+21337,2016.0,United States,"Rancatti, Jan",0
+7263,2016.0,United States,"Itzkovits, David",0
+12374,2017.0,United States,"Brinker, Doyen H.",0
+23520,2017.0,Germany,"Bohl, Jana",0
+17820,2017.0,United States,"Bailey, Allison",0
+14458,2017.0,United Kingdom,"Salmon, Gary R.",0
+3948,2016.0,United Mexican States,"Garcia-Dunna, Eduardo",0
+3629,2017.0,Italy,"Candiani, Dagoberto",0
+20845,2015.0,United States,"Loh, Tracey",0
+13016,2016.0,United States,"Lee, Jason J",0
+24984,2016.0,United States,"Pearless, Kristen",0
+3544,2016.0,United States,"Morris, Trey N",0
+16046,2015.0,United States,"McKee, Sherry",0
+10509,2017.0,United States,"Bene, Patrick J.",0
+13220,2016.0,United States,"Eck, Peggy",0
+12236,2015.0,United States,"Zeigler, Heather",0
+11852,2017.0,Canada,"Deshaies, Jean-Francois",0
+1573,2017.0,United States,"Habte, Habtom",0
+25077,2016.0,United States,"Attinson, Beverly M.",0
+7949,2016.0,United States,"Heagy, Jen",0
+10228,2017.0,United States,"Matteodo, Sarah",0
+19051,2016.0,United States,"Henderson, Rae A.",0
+19884,2016.0,United States,"Smith, Mandy K.",0
+13831,2015.0,United States,"Clark, Robin",0
+9262,2015.0,United States,"James, John P",0
+13365,2017.0,United States,"Newcomer, Walter W",0
+26577,2016.0,United States,"Martone, Michael N.",0
+6028,2017.0,United States,"Macpherson, Rachel",0
+22747,2016.0,United States,"Boyda, Robert",0
+26246,2015.0,United States,"Solberg, Bryon",0
+11774,2015.0,United States,"Cory, Evan C.",0
+21112,2015.0,United States,"Clowes, Dana",0
+613,2016.0,United States,"Zand, Rob",0
+11010,2015.0,United States,"Post, Albert J",0
+24998,2017.0,United States,"Andruzzi, Jennifer",0
+12471,2015.0,United States,"Esola, Marcia",0
+21071,2016.0,United States,"Leal, Maureen W.",0
+19450,2016.0,United States,"Muldoon, Amanda",0
+13720,2015.0,United States,"Spillane, Kirsten G",0
+16227,2016.0,United States,"Mastrianni, James",0
+18302,2016.0,United States,"Dunfey, Brian",0
+11115,2017.0,United States,"Butzer, Stephanie J",0
+23084,2017.0,United States,"Robertson, Nancy",0
+24139,2016.0,United States,"Bryant, Nicole M.",0
+7672,2016.0,United States,"Naito, Kay",0
+4340,2016.0,Sweden,"Johansson, Mikael",0
+24702,2017.0,United States,"Guy, Scott",0
+6315,2016.0,Canada,"Bonin, Lisa M",0
+12694,2015.0,United States,"Bates, Renee",0
+14578,2017.0,United Kingdom,"Martin, Ruth",0
+8240,2015.0,United States,"Costello, Elizabeth A.",0
+10425,2016.0,United States,"Thompson, Tricia R.",0
+4155,2016.0,United States,"De La Barreda, Rafael",0
+25009,2017.0,United States,"Avance, Brandon",0
+9363,2016.0,United States,"Trenk, Michael H",0
+8809,2017.0,Germany,"Komann, Katharina",0
+7070,2017.0,United States,"Mallen, Jessica",0
+13778,2015.0,United States,"Franco, Janet M.",0
+21861,2017.0,United States,"Estevez, Brian",0
+16332,2017.0,United States,"Carlson, Brian",0
+23635,2017.0,Swiss Confederation,"Affentranger, Antonio Horacio",0
+22879,2015.0,Canada,"Kwan, Peter",0
+14695,2017.0,Canada,"Armstrong, Marnie A",0
+22145,2016.0,United States,"Geraty, Anna M.",0
+4453,2017.0,Germany,"Bacherl, Christian",0
+24294,2017.0,Republic of Iceland,"Egholm, Jan H.",0
+21654,2017.0,United States,"Santos, Juan",0
+14022,2017.0,United States,"Kincaid, Micha",0
+23397,2015.0,United States,"Chobot, Sarah",0
+13293,2017.0,United States,"Marsh, Danielle M",0
+15972,2016.0,United States,"Hidle, Unn",0
+1314,2016.0,United States,"Herrarte, Julio C.",0
+20880,2017.0,Canada,"Mattila, Myra",0
+24986,2016.0,United States,"Buciak, Mark J.",0
+11052,2016.0,United States,"Cosio, Dawn A",0
+6845,2015.0,Canada,"Duffy, Meghan K",0
+24202,2016.0,United States,"Hawkins, Mary Beth",0
+13594,2017.0,United States,"Moore-Lai, Deborah",0
+6174,2017.0,Italy,"Strada, Alessio",0
+15583,2016.0,United States,"Slattery, Patrick M.",0
+16759,2015.0,United States,"Cowen, Linda",0
+18753,2015.0,United States,"Zurlo, Mark J.",0
+12481,2015.0,United States,"Norman, Siobhan E.",0
+24147,2016.0,United States,"Popma, Bruce P",0
+24504,2015.0,Canada,"Mitchell, Ellen",0
+13415,2017.0,Canada,"Fox, Dana C",0
+14440,2017.0,United States,"Labrecque, Patricia",0
+23052,2017.0,United States,"Wolsfelt, Rachel",0
+3462,2017.0,Belgium,"Vankrunkelsven, Patrik",0
+15645,2015.0,United States,"Knez, Carol",0
+25247,2017.0,United States,"Rhinehart, Shannon M.",0
+23304,2015.0,United States,"Ralph, Thomas D.",0
+2508,2017.0,United States,"Chewning-Kulick, Travis G.",0
+4101,2017.0,United States,"Nagdimunova, Dina",0
+10928,2017.0,United States,"Obssuth, Natalie",0
+13484,2016.0,United States,"Kentner, Patrice M",0
+2319,2016.0,South Korea,"Lee, Jaedon",0
+12141,2017.0,United States,"Twardowski, Scott W.",0
+22401,2015.0,United States,"Rice, Robert J.",0
+11427,2016.0,United States,"Martin, Amanda L",0
+18535,2016.0,United States,"Kounlasa, Sinthy",0
+26152,2015.0,United States,"Krupa, Susan",0
+23431,2016.0,United States,"Delaney, Lauren E.",0
+3199,2017.0,United States,"Matteson, Ryan J",0
+19987,2015.0,United States,"Booth, Julie T",0
+19588,2016.0,United States,"Kandt, Rebecca",0
+4606,2015.0,French Republic,"Mosser, Michel",0
+18561,2016.0,United States,"Finkelstein, Rachel",0
+15990,2015.0,United States,"Warren, Jennifer",0
+12435,2016.0,United States,"Intermont, Donna J",0
+11920,2017.0,United States,"Jones, Elissa",0
+3842,2015.0,United States,"Parry, Ben",0
+24867,2016.0,United States,"Scala, Stephen",0
+4609,2015.0,United States,"Reed, Colin W.",0
+6257,2015.0,United States,"Levitsky, Lorraine",0
+109,2015.0,United States,"Mish, Brad",0
+451,2015.0,United States,"Zhou, Fan",0
+4235,2017.0,Sweden,"Sjostrom, Niklas",0
+5370,2017.0,United States,"Gurule, Roman",0
+3840,2017.0,United States,"Sanchez-Ruano, Miguel A. Sr.",0
+11585,2015.0,United States,"Mason, Robert W.",0
+26404,2015.0,United States,"Hartin, Michael P.",0
+18254,2016.0,United Mexican States,"Gonzalez, Dionisio",0
+6802,2017.0,United States,"Kato, Mami",0
+7430,2015.0,United States,"Hart, Jason W.",0
+26395,2015.0,United States,"Wiedeman, Melissa",0
+23832,2017.0,United States,"Moriarty, John J.",0
+26509,2016.0,United States,"Paris, Joseph S.",0
+20936,2015.0,United States,"Maggard, Molly",0
+26304,2015.0,United Kingdom,"Black, Roger",0
+104,2017.0,United States,"Kirk, Jacob D",0
+3355,2016.0,United States,"Cluff, Ken W",0
+9534,2017.0,United States,"Hildebrandt, Ronald",0
+21375,2015.0,United States,"Brillantes, Nicole G.",0
+18062,2015.0,United States,"Morgan, Gerry",0
+16988,2015.0,United States,"Pusey, Kati O",0
+16083,2017.0,United States,"Bayne, Linda L",0
+6092,2015.0,United States,"Denley, Shawn C",0
+917,2016.0,United States,"Torres, Justin",0
+21017,2015.0,United States,"Lefcourt, Rebecca S.",0
+14967,2016.0,United States,"Dardis, Kate A.",0
+25130,2016.0,United States,"Lerma, Krysten D.",0
+19525,2015.0,United States,"Degazon, Suzanna",0
+8241,2016.0,United States,"Wandaogo, Hassetou",0
+4622,2015.0,United States,"McDaniel, Steven",0
+21693,2017.0,United States,"Peixoto, Darlene",0
+9217,2016.0,United States,"Lucksinger, Jennie",0
+250,2015.0,United States,"Hammel, Steve",0
+8542,2015.0,Russia,"Williams, Sarah L.",0
+17844,2017.0,United States,"Kadish, Rebecca E",0
+16057,2017.0,United States,"Hart, Andrea J.",0
+24549,2015.0,Canada,"Beddoes, Ursula",0
+2609,2016.0,United States,"Mcnary, Bill",0
+1811,2016.0,United States,"Pulli, Michael",0
+1979,2015.0,United States,"Renzella, Cory",0
+8397,2017.0,Republic of China,"Wu, Sheng Hsiung",0
+20833,2016.0,United States,"Zinkel, John",0
+13781,2015.0,Japan,"Watanabe, Masahito",0
+1358,2016.0,United States,"Bothe, Steven P Jr.",0
+20887,2016.0,Canada,"Ingold, Karen",0
+14970,2015.0,United States,"Davis, Gordon",0
+25033,2015.0,United States,"Huyffer, Paul S",0
+9985,2016.0,United States,"Keeny, Heather M",0
+12262,2016.0,United States,"Scheetz, Maurin C",0
+2089,2016.0,Republic of Panama,"Arias, Eduardo",0
+19972,2017.0,United Kingdom,"Warner, Ed",0
+6263,2017.0,United States,"Baeskens, Joe",0
+23423,2015.0,United States,"Hinton, Bill E.",0
+13825,2016.0,United Kingdom,"Jones, Simon G",0
+2539,2015.0,United States,"McDowell, Daniel J.",0
+24954,2015.0,United States,"Teachout, Christopher J.",0
+11124,2017.0,United States,"Duffield, Cher K.",0
+20155,2017.0,United States,"Narayana, Usha",0
+22735,2016.0,Swiss Confederation,"Gribi, Urs",0
+17318,2015.0,United States,"Parkes, Donna M.",0
+11220,2016.0,United States,"Stephan, Kristi",0
+6021,2016.0,United States,"Glidden, Nicole",0
+21904,2017.0,United States,"Ross, Charlie",0
+12566,2015.0,United States,"Schwarz, Haley C",0
+24433,2016.0,United States,"Bryan, Ed J.",0
+22022,2016.0,United States,"Samuel, Eugene",0
+323,2015.0,United States,"Lynch, Jeremy",0
+3933,2015.0,United States,"Herbst, Rich",0
+12850,2017.0,United States,"Occansey, Kathy T",0
+12775,2016.0,United States,"Clark, Timothy P.",0
+9785,2017.0,United States,"Aranda, Michael",0
+13195,2017.0,United States,"Rice, Don",0
+14032,2015.0,United States,"Tevald, Jeremy D.",0
+7389,2016.0,United States,"Trochalakis, Panos T",0
+18371,2015.0,Canada,"Robinson, Rob W",0
+12041,2015.0,United States,"Tufte, Jerod E",0
+22387,2017.0,United States,"Radtke, David D",0
+20248,2017.0,Canada,"Levy, Rachel",0
+16795,2017.0,United States,"Clem, William M",0
+8899,2015.0,Canada,"Basque, Robert",0
+17436,2016.0,United States,"Donahue, Kristin N",0
+2806,2016.0,United States,"Martin, Brian",0
+23007,2016.0,United States,"Ross, Charles C.",0
+20724,2017.0,United States,"Brogan, Anna R.",0
+26372,2016.0,United States,"LeBlanc, Erica R.",0
+14488,2017.0,United States,"Medina, Corinna A",0
+23891,2017.0,People's Republic of China,"Ding, Feng",0
+20887,2017.0,United States,"Teter, Ramona",0
+24454,2017.0,United States,"Fasciano, Laura C.",0
+15382,2016.0,United States,"Andrews, David C",0
+13356,2015.0,United States,"Evans, Joanna",0
+10466,2016.0,Canada,"Grant, Marian I.",0
+4279,2017.0,United States,"Loiacano, Regina",0
+6730,2016.0,United States,"Scott, Craig T",0
+18210,2016.0,Canada,"Crete-Reizes, Marika",0
+17907,2015.0,United States,"Higginbotham, Amber",0
+3049,2015.0,United States,"Hartmann, John",0
+14509,2017.0,United States,"Horner, Suzanne E",0
+13084,2015.0,United States,"Kruse, Darci J.",0
+12389,2016.0,United States,"Anderson, Shawn",0
+2726,2016.0,United Mexican States,"Ramirez, Felipe",0
+216,2017.0,United Kingdom,"Farmer, Stuart M.",0
+11265,2015.0,United States,"Hovance, Kristen L.",0
+18259,2017.0,United States,"Chiuve, Karen J",0
+13928,2015.0,United States,"Chmiel, Ray",0
+17818,2015.0,United States,"Landry, Catherine",0
+7196,2016.0,Kingdom of Denmark,"Vesterbaek, Brian",0
+10315,2015.0,United States,"Bernstein, Stephen A",0
+9636,2017.0,United Mexican States,"Gonzalez Compean, Laura Raquel",0
+23192,2017.0,United States,"Flutie, Doug",0
+3729,2016.0,United States,"Bruestle, Sydney L",0
+23607,2017.0,United States,"Kynoch, Robert B.",0
+18678,2017.0,United States,"Dodd, John D",0
+21257,2016.0,United States,"Dumas, Stacie",0
+1729,2017.0,United States,"Martin, Marshall D",0
+11287,2016.0,United States,"Sumsion Kearney, Anna J",0
+8294,2017.0,United States,"Ospitale, Lisa",0
+19022,2017.0,United States,"Pierce, William S",0
+9505,2017.0,Canada,"Kobe, Trevor L",0
+3534,2017.0,United States,"Pearlman, Adam",0
+3890,2015.0,United States,"Swift, David",0
+18649,2017.0,United States,"Casey, Karin",0
+23535,2015.0,United States,"DiLisio, Karen J.",0
+9646,2017.0,United States,"Schoeck, Jonathan",0
+12710,2017.0,United States,"Titus, Tom A",0
+4908,2015.0,United States,"Chandler, Kate",0
+1596,2016.0,Kingdom of Denmark,"Jensen, Casper H.",0
+2353,2016.0,United States,"Wittmer, Sean",0
+1216,2016.0,United Kingdom,"Heaney, Michael",0
+26097,2015.0,United States,"Meers, Alyssa L.",0
+16703,2016.0,United States,"Renner, Gregory M",0
+22096,2015.0,United States,"Popma, Jim",0
+8004,2016.0,Canada,"King, Robbie D.",0
+11964,2016.0,Canada,"Rose, Kevin R",0
+26450,2015.0,United States,"Lampron, Travis J.",0
+11708,2015.0,United States,"Malcolm, Sara",0
+22480,2016.0,United States,"Mullen, Jen",0
+23774,2017.0,United States,"Ellis, Jillian",0
+4697,2015.0,United States,"Karry, John D.",0
+749,2016.0,United States,"Ollinger, Patrick",0
+25379,2017.0,United States,"Phelps, Joel",0
+7529,2017.0,United States,"Navarro, Tanya M",0
+23618,2016.0,United States,"Coogan, Meg R.",0
+3742,2016.0,United States,"Jamison, Joshua",0
+21526,2017.0,United States,"Askew, Francine E.",0
+16296,2015.0,United States,"Rich, George F",0
+4683,2016.0,United States,"Ciocca, Eric C",0
+18678,2016.0,Finland,"Koynnos, Milla",0
+17239,2016.0,United States,"Rathmanner, Christiana",0
+4886,2016.0,United States,"Parker, Eric S",0
+8264,2017.0,United Kingdom,"Lumineau, Emmanuel",0
+16226,2017.0,United States,"Dematteis, David",0
+23943,2015.0,United States,"Manassee, Melissa M.",0
+20482,2017.0,United States,"Mularella, Joshua",0
+12537,2016.0,United States,"Stenta, Meredith",0
+23002,2017.0,United States,"Cappa, Phil",0
+514,2015.0,United States,"King, Travis",0
+9229,2015.0,United States,"Vazquez, Lilia D",0
+5294,2015.0,Sweden,"Rydholm, Carl",0
+8889,2015.0,United States,"Zhu, Gaofeng",0
+4124,2015.0,United States,"Dalmata, Dara E",0
+14683,2015.0,United States,"Arne, Gary",0
+2830,2017.0,People's Republic of China,"Rivera, Jorge A.",0
+23872,2015.0,United States,"Roebuck, Samuel M.",0
+5051,2017.0,United States,"Saenz, Diego S",0
+15201,2016.0,United States,"Sullivan, Don",0
+22323,2015.0,Bermuda,"Davies, Kevin M.",0
+22987,2016.0,United States,"Liu, Jason",0
+2135,2015.0,United States,"Hammond, Chase",0
+20486,2015.0,Belgium,"Reyns, Ivan",0
+13579,2015.0,United States,"Westrick, Kristin K",0
+20026,2016.0,United States,"Hoffman, Colleen",0
+19590,2015.0,United States,"Harrell, Rachel D.",0
+21047,2017.0,United States,"Rost, Julie W",0
+1680,2016.0,United States,"Dionne, Paul",0
+15964,2017.0,United States,"Gallagher, Kim",0
+18776,2016.0,United States,"Pasqualini, Ellie",0
+11646,2016.0,United States,"Coutts, Cheryl",0
+11779,2015.0,United States,"Layer, Rachel",0
+15728,2017.0,Canada,"Lee, Lila",0
+556,2017.0,United States,"Daye, Ryan",0
+3958,2016.0,United States,"McGinley, John",0
+26114,2017.0,United States,"Ware, Elizabeth A.",0
+3713,2015.0,United States,"Schoenmeyr, Tor",0
+4723,2016.0,United States,"Cooke, Stephanie L.",0
+11491,2017.0,United States,"Cugno, Thomas A.",0
+13066,2017.0,Federative Republic of Brazil,"Coelho, Carlos",0
+22221,2017.0,United States,"Clark, Cynthia J",0
+783,2017.0,Republic of Costa Rica,"Mena Solorzano, Diego Sr.",0
+10279,2017.0,United States,"Pavia, Chris J.",0
+19909,2015.0,United States,"Pringle, Rebecca",0
+20341,2017.0,Canada,"Mercer, Kevin C",0
+12233,2017.0,Canada,"Anderson, Christopher",0
+15439,2017.0,United Mexican States,"Cervantes, Claudia",0
+1997,2015.0,United Mexican States,"Rojas, Gerardo Sr.",0
+18013,2017.0,Kingdom of Morocco,"Bennis, Karim",0
+7485,2017.0,Canada,"Chateauneuf, Emilie",0
+2173,2016.0,United States,"Michael, Bryan M",0
+2891,2016.0,Canada,"Manning, Lindsay",0
+15894,2016.0,United States,"Nisius, Barb J.",0
+17095,2015.0,United States,"Johnson, Amy B",0
+23450,2016.0,Canada,"McCormick, Siobhan E.",0
+8226,2016.0,United States,"Hudak, Lauren",0
+25013,2015.0,United States,"Hongach, Lori",0
+7640,2016.0,United States,"Vardi, Moshe",0
+5488,2015.0,United States,"Glaser, Jeff",0
+17526,2017.0,United States,"Drelick, Ailsa",0
+25896,2017.0,United States,"Strom, George F.",0
+24951,2015.0,Germany,"Kreikenbohm, Juergen M.",0
+22713,2016.0,United States,"Payne, Billy",0
+9017,2017.0,United States,"Quindlen, Julia C",0
+20010,2017.0,United States,"Grant, James E",0
+25336,2016.0,Republic of Slovenia,"Plankl, Joze",0
+12665,2016.0,United States,"Pandiscio, Curt",0
+11834,2017.0,United States,"Ogar, Sarah",0
+8194,2017.0,United States,"Anaya, Ignacio",0
+938,2015.0,Canada,"Moran, Brittany A.",0
+24011,2017.0,South Korea,"Hwang, Byung Joon",0
+13710,2017.0,United States,"Dannemann, Benjamin C",0
+788,2016.0,United States,"Kulm, Scott",0
+10009,2015.0,United States,"Paredes, Anne",0
+9195,2016.0,United States,"Flynn, Jessica",0
+21264,2017.0,United States,"Milne, Lee",0
+22283,2017.0,United States,"Call, Diane",0
+25356,2015.0,United States,"Courtemanche, Andrea J.",0
+12780,2015.0,United States,"Lachtman, Kristen",0
+10580,2015.0,United States,"Tougas, Bernard Jr.",0
+17116,2016.0,United States,"Morris, Laura E.",0
+12572,2016.0,Hong Kong SAR,"Lee, Man Leung Kenneth M.",0
+4021,2016.0,United States,"Krum, Scott",0
+4774,2017.0,United States,"Harris, Charles W Jr.",0
+14489,2017.0,United States,"Hasencamp, Bill",0
+9560,2016.0,United States,"Merrick, Ken",0
+9525,2017.0,Portugal,"Calvo, Rogerio L.",0
+19226,2017.0,United States,"Carlin, Catharine R",0
+5676,2016.0,United States,"Choi, Lauren A",0
+6597,2015.0,United States,"Logue, Jason",0
+18610,2016.0,United States,"Baca, Donna",0
+2946,2016.0,United Kingdom,"Hewlett, Martin",0
+4918,2017.0,United States,"Pickett, Troy R",0
+883,2017.0,Republic of China,"Chang, Ching-Tun",0
+19199,2015.0,United States,"Frenette, Teresa A.",0
+6490,2017.0,United States,"Elo, Jackie",0
+20909,2016.0,Sweden,"Paulsen, Johan",0
+12820,2015.0,United States,"Grady, April L",0
+12999,2017.0,United States,"Tucker, Julie O",0
+8339,2016.0,United States,"Lovria, Elizabeth A",0
+14192,2016.0,United States,"Kaufman, Jason S",0
+3119,2017.0,United States,"Collins, Terrance M",0
+21902,2017.0,United States,"Burroughs, Paige L.",0
+6632,2016.0,United States,"Shea, Michael P.",0
+490,2015.0,Slovak Republic,"Petrulak, Martin",0
+17423,2016.0,United Kingdom,"Charles, Steph E.",0
+21641,2016.0,United States,"Konesky, Georgiana L.",0
+16528,2015.0,United States,"Koehn, Kendell B",0
+16600,2017.0,United States,"Horwitz, Alan",0
+26437,2015.0,United States,"Baker, Rushern L. III",0
+7411,2017.0,United States,"Smyth, Megan L",0
+3125,2017.0,United States,"Henley, Alice P",0
+22460,2016.0,United States,"Wise, Donna L",0
+2710,2017.0,United Mexican States,"Cruz, Angel",0
+23748,2017.0,People's Republic of China,"Gao, Zhicheng",0
+18228,2017.0,United States,"Marston, Debra",0
+19902,2015.0,United States,"Beach, Kris",0
+18353,2015.0,United States,"Murray, Michael A",0
+6471,2016.0,United States,"Hartley, Gavin",0
+22870,2017.0,Canada,"Arts, Martin P.",0
+8693,2017.0,United States,"Sumner, James",0
+7030,2017.0,United States,"Dewolf, John W",0
+15637,2015.0,United States,"Hoppe, Richard T",0
+1443,2017.0,Norway,"Lind, Jahn Thomas",0
+5245,2015.0,United States,"Froehlich, Robert",0
+22980,2016.0,United States,"Mackler, Alexander S.",0
+1587,2016.0,United States,"Benge, Carter C",0
+9855,2017.0,United States,"Van Orman, Alisha",0
+615,2016.0,United States,"Manning, Matthew T",0
+13057,2016.0,United States,"Robinson-Jones, Kaitlyn",0
+26050,2015.0,United States,"Bergin, Heather",0
+8418,2017.0,United Kingdom,"Mcalpine, Robert A",0
+9299,2016.0,United States,"Scerbo, Nick",0
+19607,2015.0,United States,"Olson, Joseph A",0
+8041,2016.0,United States,"Cassell, Yaroslava G.",0
+10431,2016.0,United States,"Bass, Bill",0
+4111,2016.0,United States,"Poole, Richard J.",0
+6163,2016.0,United States,"Harkins, Elizabeth",0
+13911,2017.0,United States,"Parikh, Tejal",0
+14746,2017.0,United States,"Wangner, Natalie K",0
+2238,2017.0,United States,"Mickel, Drew",0
+21238,2017.0,United States,"Barrett, Andrew L.",0
+25601,2016.0,United States,"Markow, Daniel",0
+23214,2017.0,Germany,"Schwarz, Cordula",0
+19192,2015.0,United States,"Haroldsen, Shannon D",0
+556,2015.0,United States,"Norcross, Robert A.",0
+18902,2017.0,Federative Republic of Brazil,"Pellegatti, Joao Alberto",0
+19473,2016.0,United States,"Nykerk, Fay",0
+15640,2017.0,United States,"Wierzbicki, Holly",0
+25497,2016.0,United States,"Clifford, Diane E.",0
+6313,2016.0,United Mexican States,"Septien, Luis A",0
+1398,2015.0,United States,"Solarz, Christopher C",0
+8492,2016.0,United States,"Clary, Rick",0
+11291,2017.0,United States,"Hom, Jennifer",0
+16508,2017.0,United States,"Kunz, Laura M",0
+2837,2017.0,United States,"Lopez, Diego",0
+12196,2017.0,Canada,"Pope, Mary",0
+14656,2016.0,United States,"Borden, Maggie",0
+6240,2017.0,Canada,"Goertz, Robert I.",0
+17078,2017.0,Kingdom of Denmark,"Nielsen, Finn",0
+12171,2017.0,United States,"Kerr, Wendy M.",0
+19095,2016.0,United States,"Malm, Juanita",0
+13040,2017.0,Federative Republic of Brazil,"Sonagli, Marcos",0
+22734,2016.0,United States,"Preisig, Monica N.",0
+4999,2017.0,Canada,"Moreau-Verlaan, Lindsay H.",0
+9336,2015.0,Canada,"Durand, Stephane",0
+20699,2017.0,Kingdom of Spain,"Miralpeix Gonzalez, Ramon Sr.",0
+1135,2015.0,United States,"Tassello, Nicole",0
+4753,2015.0,United States,"Livaudais, Frank C",0
+3069,2015.0,United States,"Harron, Jim",0
+13424,2017.0,United Kingdom,"Cook, Dorian",0
+3391,2016.0,United States,"Losee, Todd",0
+8545,2015.0,Canada,"Pellerin, Annie",0
+2801,2015.0,South Korea,"Lee, Jae Yong",0
+5356,2015.0,United States,"Mitchell, Abigail K",0
+16191,2017.0,United States,"Crandall, Carol A",0
+19994,2016.0,United States,"Kamm, Joel K.",0
+22895,2015.0,United States,"Abert, Cheryl A.",0
+12673,2016.0,United States,"Watt, Douglas A",0
+14373,2016.0,United States,"Kodanaz, Rachel",0
+14612,2015.0,United States,"Maykel, Vanessa O.",0
+13751,2017.0,Swiss Confederation,"Thoma, Kevin Y.",0
+15004,2017.0,United States,"Nelson, Jennifer A",0
+12625,2015.0,United States,"Rosenthal, Geoffrey",0
+14916,2016.0,Canada,"Hamilton, Robert",0
+272,2016.0,United States,"Battaglino, Peter",0
+14294,2017.0,United States,"Darrah, Patricia A",0
+3974,2015.0,United States,"Schoenfeld, Joshua D",0
+20795,2017.0,United States,"Joyce, Jennifer",0
+2161,2016.0,Kingdom of Spain,"Castarlenas Chela, Alejandro Sr.",0
+2415,2015.0,United States,"Sheptock, Tatiana",0
+18111,2015.0,United States,"Goldner, Jason J.",0
+12260,2016.0,United States,"Fromm, Joanna",0
+12268,2015.0,United States,"Tucek, Scott",0
+18741,2016.0,United States,"Baum, Mark",0
+7841,2017.0,United States,"Hudson, Bethany M",0
+2517,2017.0,United States,"Shimansky, Stefanie",0
+21991,2015.0,United States,"Lasure, Stephanie",0
+10094,2016.0,United States,"Thamkittikasem, Jeff",0
+11589,2015.0,United States,"Mvoi, Sifa N",0
+25319,2015.0,United States,"Tassini, Sharon J.",0
+10484,2016.0,United States,"Tinger, Mariah F",0
+5968,2017.0,United States,"Stong, Donald",0
+22440,2017.0,United States,"Wurzel, Alex",0
+14627,2016.0,United States,"Mendez Karr, Cynthia",0
+24256,2016.0,United States,"McQuade, Timothy",0
+8233,2015.0,Japan,"Okamura, Toshio",0
+401,2015.0,United States,"Wehrwein, Scott",0
+755,2016.0,United States,"Stange, Michael",0
+18121,2017.0,United Kingdom,"Easton, Stephanie",0
+6622,2016.0,United States,"Mundhenke, Gary L",0
+8506,2017.0,United States,"Hurlbut, Brian",0
+17666,2017.0,United States,"Edwards, Steven",0
+18683,2016.0,United States,"Searcy, Gwynne",0
+25916,2017.0,Swiss Confederation,"Vargas, Carlos Alberto",0
+22260,2016.0,United States,"Dewitt, Meredith",0
+16280,2015.0,Finland,"Nikanne, Urpo T.",0
+3177,2015.0,Canada,"Redfern Pucci, Antonio",0
+19911,2016.0,Canada,"Pham, V. P.",0
+2039,2017.0,United States,"Guerrette, Tracy A",0
+3240,2015.0,United Mexican States,"Henares, Isaac",0
+18965,2017.0,United States,"Ferguson, Mackenzie J",0
+7774,2015.0,Finland,"Moilanen, Hannu",0
+22888,2017.0,United States,"Ward, Alissa",0
+21936,2017.0,United States,"Toner, Beth",0
+23405,2016.0,United States,"Maccario, Diana C.",0
+11592,2015.0,United States,"Denard, David A",0
+9378,2016.0,United States,"Brown, Timothy J.",0
+2794,2017.0,United States,"Kanak, Richard T",0
+9349,2017.0,Canada,"Smith, Preston A",0
+706,2016.0,Canada,"Lui, Ben",0
+3981,2015.0,United States,"Birkelo, John",0
+12652,2017.0,United States,"Earnshaw, Tiraje A.",0
+13454,2016.0,United States,"Gallagher, Christina",0
+5333,2017.0,United States,"Bell, Hadley",0
+22864,2016.0,United States,"Gleason, Mary K.",0
+12391,2016.0,United States,"Fawcett, Lynn",0
+24366,2016.0,United States,"Landers, Harry",0
+5342,2015.0,Canada,"Jean, Alexandre",0
+24473,2017.0,United States,"Ladonne, Michelle N.",0
+19826,2017.0,Japan,"Yokota, Kazushi",0
+18346,2016.0,United States,"Fleshman, Brenda",0
+22776,2015.0,United States,"Hannigan, Jeannie A.",0
+11878,2016.0,United States,"Kehoe, Keather",0
+7637,2015.0,United States,"Metzl, Joshua A.",0
+26185,2015.0,United States,"Honegger, Janna M.",0
+2650,2015.0,United States,"Cook, Tyler S",0
+4942,2016.0,United Mexican States,"Fletes, Jorge",0
+19896,2017.0,United States,"Gallagher, Natalie",0
+11634,2017.0,United States,"Jessee, Anamarie",0
+20114,2015.0,United States,"Noone, Jim",0
+12329,2016.0,United States,"Cleland, George M IV",0
+6099,2016.0,United States,"Griffin, Tarae A",0
+22199,2016.0,United States,"Crow Kiehl, Michelle",0
+2533,2015.0,United States,"Rover, William",0
+18397,2017.0,United States,"Gilpin, Sarah E.",0
+9206,2017.0,United States,"Wright, Janae",0
+20170,2017.0,United States,"Crough, Melissa",0
+12122,2017.0,United States,"Barone, Michelle R",0
+24863,2017.0,United States,"Berthiaume, Joanne",0
+24650,2015.0,United States,"Calvo, Gianmarco",0
+8157,2017.0,Republic of China,"Shih, Hao-Chiun",0
+10541,2017.0,United States,"Lack, Rachela S",0
+1010,2017.0,Republic of Türkiye,"Yildiz, Volkan",0
+18443,2017.0,United States,"Yavonditte, Joe",0
+10410,2015.0,United States,"Lawler, Timothy",0
+4849,2017.0,United States,"Hanna, Howard",0
+16171,2016.0,United States,"Selina, Rachel",0
+8555,2017.0,United States,"Alejandra, Garcia",0
+11831,2015.0,United States,"Bentley, Karita",0
+12531,2016.0,United States,"Winerip, Michelle",0
+10680,2017.0,United States,"Rasmussen, Troy A",0
+14652,2017.0,United States,"Stockmal, Cory",0
+9348,2017.0,United States,"Russell, Bryan",0
+17964,2015.0,United States,"Lloyd, Diana M.",0
+25236,2016.0,United States,"Skarupa, Melissa",0
+7288,2016.0,United States,"Chappelle, Kip",0
+7760,2016.0,United States,"Lagueux, Russell P",0
+13626,2015.0,United States,"Maykut, Jennifer N.",0
+14358,2017.0,United States,"Dennis, Jack W Jr.",0
+4152,2015.0,United States,"Proffitt, Tyler B",0
+3288,2016.0,United States,"Buchholtz, Mark",0
+19396,2016.0,Canada,"Gariepy, Isabelle",0
+6532,2017.0,United States,"Resnikoff, Ted",0
+18075,2017.0,Kingdom of Spain,"Cano Fernandez, Angel Sr.",0
+3922,2017.0,United States,"Flowers, Stephanie M",0
+21222,2016.0,United States,"Rice, Rob",0
+18763,2017.0,United States,"Fretz, Jeremy W.",0
+16118,2015.0,United States,"Beaulieu, Katherine",0
+2170,2015.0,Canada,"Tremblay, Vincent",0
+9448,2015.0,United States,"Floyd, Joseph J",0
+20206,2017.0,United States,"Wun, Michelle",0
+17064,2015.0,United States,"Hawkins, Shannon",0
+4242,2017.0,United States,"Lundgren, Zac",0
+5539,2017.0,United States,"Hillier, Robert D Jr.",0
+23153,2017.0,United States,"Flynn, Christina",0
+20593,2017.0,United States,"Sim, John",0
+11476,2016.0,Kingdom of Spain,"Hernandez Garcia, Alberto",0
+18200,2015.0,Canada,"Thiboutot, Denis",0
